@@ -1,0 +1,104 @@
+.gallery:hover
+    	{
+    		height: 500px;
+    		width: 500px;
+    	}
+    	img
+    	{
+    		height: 300px;
+    		width: 400px;
+    		border-radius: 20%;
+    	}
+
+    	img:hover
+    	{
+    		height: 400px;
+    		width: 400px;	
+    	}
+    	
+    	p 
+    	{
+		color: black;
+		font-size: 20px;
+		font-family: "comic Sans Ms";
+		}
+
+        h3
+        {
+            font-family: "Cooper black";
+            font-size: 35px;
+            color: black;text-decoration: underline;
+
+        }
+        h2
+        {
+            font-family: "Cooper black";
+            font-size: 50px;
+            color: black;
+        }
+        h1
+        {
+            font-family: "Snam ITC";
+            font-size: 80px;
+            color: black;
+        }
+        #achievements p
+        {
+            text-align: left;
+            
+        }
+
+        #achievements  img
+        {
+            float: right;
+        }
+        body
+        {
+
+        }
+        #gallery img
+        {
+            border:10px solid black;
+            height: 350px;
+             width: 350px;
+             
+             margin: auto;
+   margin-top: 30px;
+   margin-left: 30px;
+             
+        }
+
+        #visit input.btn
+        {
+            height: 30px;
+            width: 100px;
+            font-family: Arial Black;
+            border: 3px solid black;
+            border-radius: 20%;
+
+        }
+
+         #visit input.text
+        {
+            height: 30px;
+            width: 600px;
+            font-family: Arial Black;
+            border: 3px solid black;
+            border-radius: 10%;
+
+        }
+
+        #visit label.label
+        {
+            font-family: Arial Black;
+            
+        }
+
+        #ppt a
+        {
+            color: #8A2BE2;
+            font-size: 40px;
+            font-family: "forte";
+           
+
+        }
